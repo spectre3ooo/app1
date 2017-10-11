@@ -1,0 +1,1 @@
+string appName = "app1"
