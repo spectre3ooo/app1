@@ -1,1 +1,2 @@
-string appName = "app1"
+string appName = "app1";
+appName = "App 1";
